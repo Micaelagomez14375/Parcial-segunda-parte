@@ -35,7 +35,7 @@ body
 }
 .footer1
 {
- max-width: 1080px;
+    max-width: 1080px;
     height: auto;
     background-color: lightblue;
     border: 10px solid #486987;
@@ -43,3 +43,5 @@ body
     padding: 20px;
     text-align: center;
 }
+.caja1 {
+ 
