@@ -12,3 +12,13 @@ body
     text-align: center;
     margin: auto;
 }
+.maintcont{
+    max-width: 1080px;
+    height: auto;
+    background-color: lightblue
+}
+.imagen1 {
+    text-align: center;    
+    margin: 2rem; color: darkcyan;
+    
+}
