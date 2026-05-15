@@ -1,4 +1,10 @@
 body
 { background-image: url(../img/fondo.png)
-
 }
+.caja1 {
+    width: auto;
+    height: auto;
+    background-color: lightblue;
+    color: midnightblue;
+    border: 5px;
+} 
