@@ -33,3 +33,13 @@ body
     padding: 20px;
     text-align: center;
 }
+.footer1
+{
+ max-width: 1080px;
+    height: auto;
+    background-color: lightblue;
+    border: 10px solid #486987;
+    margin: 10px;
+    padding: 20px;
+    text-align: center;
+}
