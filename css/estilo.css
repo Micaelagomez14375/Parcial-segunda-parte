@@ -110,3 +110,19 @@ margin: 0 auto 20px auto;
 font-size: 1.5rem;
 margin: 30px auto 20px auto;
 }
+.listas ul
+{
+display: flex;
+justify-content: center;
+list-style-type: none;
+padding: 0;
+gap: 30px;
+}
+.listas ul li a
+{
+    color: midnightblue;
+}
+.listas ul li a:hover
+{
+    color: #486987;
+}
