@@ -17,7 +17,6 @@ body
     margin: auto;
     border: 10px solid #486987;
     text-decoration: none;
-    font-weight: bold;
     padding: 0.5rem 1rem;
     transition: all 0.3s ease;
 }
@@ -82,52 +81,8 @@ body
 {
     color: #486987;
 }
-.caja2
-{
-    max-width: 1080px;
-    height: auto;
-    background-color: lightblue;
-    color: midnightblue;
-    border: 5px;
-    text-align: center;
-    margin: auto;
-    border: 10px solid #486987;
-    text-decoration: none;
-    font-weight: bold;
-    padding: 0.5rem 1rem;
-    transition: all 0.3s ease;
-}
-.listas2 ul
-{
-    display: flex;
-    justify-content: center;
-    list-style-type: none;
-    padding: 0;
-    gap: 30px;
-}
-.listas2 ul li a
-{
-    color: midnightblue;
-}
-.listas2 ul li a:hover
-{
-    color: #486987;
-}
-.h2pagina2 
-{
-    max-width: 1080px;
-    height: auto;
-    background-color: lightblue;
-    color: midnightblue;
-    border: 5px;
-    text-align: center;
-    margin: auto;
-    border: 10px solid #486987;
-    text-decoration: none;
-    font-weight: bold;
-    padding: 0.5rem 1rem;
-    transition: all 0.3s ease;
-}
+
+
 .listas ul 
 {
     list-style: none;
@@ -140,5 +95,32 @@ body
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+}
+.ultimoparrafo
+{
+ text-align: center;
+ margin: auto;
+}
+.footer1
+{
+    text-align: center;
+    margin: auto;
+    display: block;
+    padding: 0.5rem 1rem;
+}
+.imagen1 {
+    text-align: center; 
+    margin: 2rem 0;     
+}
+
+.imagen1 img {
+    width: 60%;          
+    max-width: 500px;   
+    height: auto;       
+    border-radius: 8px; 
+}
+.parrafo
+{
+color: black;
 }
 
