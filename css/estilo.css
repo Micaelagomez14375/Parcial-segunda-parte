@@ -26,6 +26,7 @@ body
     background-color: lightblue;
     border: 10px solid #486987;
     padding: 20px;
+    background-position: center;
 }
 .imagen1 {
     text-align: center;  
