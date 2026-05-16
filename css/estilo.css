@@ -6,7 +6,8 @@ body
     font-family: 'Abel', sans-serif;
 }
 
-.caja1 {
+.caja1 
+{
     max-width: 1080px;
     height: auto;
     background-color: lightblue;
@@ -20,15 +21,16 @@ body
     padding: 0.5rem 1rem;
     transition: all 0.3s ease;
 }
-.maintcont{
+.maintcont
+{
     max-width: 1080px;
     height: auto;
     background-color: lightblue;
     border: 10px solid #486987;
     padding: 20px;
-    background-position: center;
 }
-.imagen1 {
+.imagen1 
+{
     text-align: center;  
 }
 .ultimoparrafo
@@ -132,5 +134,11 @@ body
     display: flex;   
     justify-content: center;
     gap: 1.5rem;         
+}
+
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
 }
 
