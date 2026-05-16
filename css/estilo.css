@@ -77,7 +77,7 @@ body
 {
     color: #486987;
 }
-.caja2
+.caja1
 {
     max-width: 1080px;
     height: auto;
@@ -108,9 +108,9 @@ body
 {
     color: #486987;
 }
-.h2pagina2 
+.caja1
 {
-     max-width: 1080px;
+    max-width: 1080px;
     height: auto;
     background-color: lightblue;
     color: midnightblue;
@@ -122,4 +122,5 @@ body
     font-weight: bold;
     padding: 0.5rem 1rem;
     transition: all 0.3s ease;
+
 }
