@@ -7,7 +7,7 @@ body
 }
 
 .caja1 
-{
+ {
     max-width: 1080px;
     height: auto;
     background-color: lightblue;
@@ -26,7 +26,7 @@ body
     height: auto;
     background-color: lightblue;
     border: 10px solid #486987;
-    padding: 20px;
+    padding: 1.25rem;
 }
 .imagen1 
 {
@@ -39,7 +39,7 @@ body
     background-color: lightblue;
     border: 10px solid #486987;
     margin: 10px;
-    padding: 20px;
+    padding: 1.25rem;
     text-align: center;
 }
 .footer1
@@ -49,7 +49,7 @@ body
     background-color: lightblue;
     border: 10px solid #486987;
     margin: 10px;
-    padding: 20px;
+    padding: 1.25rem;
     text-align: center;
 }
 .subtitulo-seccion 
@@ -59,11 +59,11 @@ body
     background-color: lightblue;
     color: midnightblue;
     border: 10px solid #486987;
-    padding: 20px;
+    padding: 1.25rem;
     text-align: center;
-    margin: 0 auto 20px auto;
+    margin: 0 auto 1.25rem auto;
     font-size: 1.5rem;
-    margin: 30px auto 20px auto;
+    margin: 30px auto 1.25rem auto;
 }
 .listas ul
 {
@@ -82,16 +82,12 @@ body
     color: #486987;
 }
 
-
 .listas ul 
 {
     list-style: none;
     display: flex;   
     justify-content: center;
     gap: 1.5rem;         
-}
-
-{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -108,12 +104,14 @@ body
     display: block;
     padding: 0.5rem 1rem;
 }
-.imagen1 {
+.imagen1 
+{
     text-align: center; 
     margin: 2rem 0;     
 }
 
-.imagen1 img {
+.imagen1 img 
+{
     width: 60%;          
     max-width: 500px;   
     height: auto;       
@@ -123,8 +121,16 @@ body
 {
 color: black;
 }
-.listas
+.maintcont
 {
-    text-decoration-style: bold;
-    text-decoration-color: black;
+    text-align: center;
+    margin: auto;
 }
+.listas1
+{
+    justify-content: center;
+    list-style-position: inside;
+}
+.h3
+{
+    color: black;}
