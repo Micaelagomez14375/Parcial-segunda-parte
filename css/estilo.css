@@ -123,4 +123,8 @@ body
 {
 color: black;
 }
-
+.listas
+{
+    text-decoration-style: bold;
+    text-decoration-color: black;
+}
